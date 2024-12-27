@@ -1,4 +1,4 @@
-CTF Writeups Repository 🛠️🔍
+# CTF Writeups Repository 🛠️🔍
 This repository contains detailed writeups for Capture the Flag (CTF) challenges, including Hack The Box (HTB) retired machines, TryHackMe rooms, and other platforms.
 
 Each writeup demonstrates:
